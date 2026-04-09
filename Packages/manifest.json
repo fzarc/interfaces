@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.anklebreaker.unity-mcp": "https://github.com/AnkleBreaker-Studio/unity-mcp-plugin.git",
     "com.unity.ai.navigation": "2.0.6",
     "com.unity.charactercontroller": "1.2.4",
     "com.unity.collab-proxy": "2.12.4",

@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      4
+    ],
+    "SourceCsetId": 8,
+    "DestinationCsetId": 4,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scenes/SampleScene.unity",
+        "ItemId": 330,
+        "ParentItemId": 314,
+        "BaseRevId": 550,
+        "SourceRevId": 1905,
+        "DestinationRevId": 550
+      }
+    ]
+  }
+]
